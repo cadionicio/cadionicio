@@ -6,7 +6,7 @@ Construyo aplicaciones que resuelven problemas reales de pequeños negocios: app
 
 - 🎯 Busco **prácticas pre-profesionales** y proyectos **freelance** (apps, APIs, automatización y análisis de datos).
 - 🛠️ Me muevo cómodo en todo el flujo: base de datos → API → app móvil → despliegue.
-- 📫 Escríbeme a **TU_CORREO@ejemplo.com** · [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)
+- 📫 Escríbeme a **cadionicio@gmail.com** · [LinkedIn](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
 
 ---
 
@@ -52,4 +52,4 @@ Puedo ayudarte con:
 - Una **API REST** con base de datos, documentada y desplegada.
 - **Automatizar** la extracción de datos y llevarlos a Excel o a un dashboard.
 
-👉 Escríbeme a **TU_CORREO@ejemplo.com** y te respondo en menos de 24 horas.
+👉 Escríbeme a **cadionicio@gmail.com** y te respondo en menos de 24 horas.
