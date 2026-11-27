@@ -3,9 +3,9 @@
  
 ### Desarrollador full-stack y de datos · Lima, Perú
  
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51TU_NUMERO)
+[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
 **🟢 Disponible para prácticas pre-profesionales y proyectos freelance**
  
@@ -62,9 +62,9 @@ Puedo ayudarte con:
 <div align="center">
 ### 📬 Hablemos — respondo en menos de 24 horas
  
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51TU_NUMERO)
+[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
 </div>
  
