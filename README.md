@@ -1,9 +1,9 @@
 <div align="center">
-# Hola, soy Cesar Dionicio 👋
+# Hola, soy César Dionicio 👋
  
 ### Desarrollador full-stack y de datos · Lima, Perú
  
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
@@ -62,7 +62,7 @@ Puedo ayudarte con:
 <div align="center">
 ### 📬 Hablemos — respondo en menos de 24 horas
  
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
