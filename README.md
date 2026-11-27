@@ -3,7 +3,7 @@
  
 ### Desarrollador full-stack y de datos · Lima, Perú
  
-[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cadionicio@gmail.com&su=Contacto%20desde%20GitHub%20-%20Pr%C3%A1cticas%20/%20Proyecto%20freelance&body=Hola%20C%C3%A9sar%2C%0A%0AVi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20sobre%3A%0A%0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
@@ -62,7 +62,7 @@ Puedo ayudarte con:
 <div align="center">
 ### 📬 Hablemos — respondo en menos de 24 horas
  
-[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadionicio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cadionicio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cadionicio@gmail.com&su=Contacto%20desde%20GitHub%20-%20Pr%C3%A1cticas%20/%20Proyecto%20freelance&body=Hola%20C%C3%A9sar%2C%0A%0AVi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20sobre%3A%0A%0A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alonso-dionicio-achachagua-07b005283/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51944701630)
  
